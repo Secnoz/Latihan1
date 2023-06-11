@@ -1,5 +1,5 @@
 package hitung;
 
-public class MatematikaBeraksi {
+public class matematikaBeraksi {
     
 }
